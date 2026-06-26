@@ -1,0 +1,1 @@
+console.log('SotaOS boot');document.getElementById('app').innerHTML='<h1>SotaOS</h1><p>Starter Project</p>';
